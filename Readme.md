@@ -9,7 +9,7 @@ This API is developed to create, execute and move in a maze by means of commands
 ## Architectural patterns
 * DDD
 * CQRS
-* Capas
+* Layers
 
 ## Patterns Design
 * Singleton
