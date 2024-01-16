@@ -1,0 +1,15 @@
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\bin\Debug\net6.0\Maze.Application.deps.json
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\bin\Debug\net6.0\Maze.Application.dll
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\bin\Debug\net6.0\Maze.Application.pdb
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\bin\Debug\net6.0\Maze.Domain.dll
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\bin\Debug\net6.0\Maze.Domain.pdb
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\Maze.Application.csproj.AssemblyReference.cache
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\Maze.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\Maze.Application.AssemblyInfoInputs.cache
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\Maze.Application.AssemblyInfo.cs
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\Maze.Application.csproj.CoreCompileInputs.cache
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\Maze.Application.csproj.CopyComplete
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\Maze.Application.dll
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\refint\Maze.Application.dll
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\Maze.Application.pdb
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Application\obj\Debug\net6.0\ref\Maze.Application.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORJuf5KTqaBH8QHQGCgmjFZtBs9mglCBDhObnbnKhCvKgiSIwmGQvOMgEba8NcWKi31R+5hyDnx/5CYuFpSn4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhonatan.gonzalez\\source\\repos\\Maze.API\\Maze.Domain\\Maze.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhonatan.gonzalez\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\jhonatan.gonzalez\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

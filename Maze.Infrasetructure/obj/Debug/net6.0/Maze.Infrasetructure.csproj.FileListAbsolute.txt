@@ -1,0 +1,17 @@
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\bin\Debug\net6.0\Maze.Infrasetructure.deps.json
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\bin\Debug\net6.0\Maze.Infrasetructure.runtimeconfig.json
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\bin\Debug\net6.0\Maze.Infrasetructure.dll
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\bin\Debug\net6.0\Maze.Infrasetructure.pdb
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\bin\Debug\net6.0\Maze.Domain.dll
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\bin\Debug\net6.0\Maze.Domain.pdb
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\Maze.Infrasetructure.csproj.AssemblyReference.cache
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\Maze.Infrasetructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\Maze.Infrasetructure.AssemblyInfoInputs.cache
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\Maze.Infrasetructure.AssemblyInfo.cs
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\Maze.Infrasetructure.csproj.CoreCompileInputs.cache
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\Maze.Infrasetructure.csproj.CopyComplete
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\Maze.Infrasetructure.dll
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\refint\Maze.Infrasetructure.dll
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\Maze.Infrasetructure.pdb
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\Maze.Infrasetructure.genruntimeconfig.cache
+C:\Users\jhonatan.gonzalez\source\repos\Maze.API\Maze.Infrasetructure\obj\Debug\net6.0\ref\Maze.Infrasetructure.dll
